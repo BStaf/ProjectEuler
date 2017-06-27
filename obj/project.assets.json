@@ -7080,16 +7080,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/occ/dev/net/test1/test1.csproj",
-      "projectName": "test1",
-      "projectPath": "/home/occ/dev/net/test1/test1.csproj",
-      "outputPath": "/home/occ/dev/net/test1/obj/",
+      "projectUniqueName": "/home/occ/dev/net/ProjectEuler/ProjectEuler.csproj",
+      "projectName": "ProjectEuler",
+      "projectPath": "/home/occ/dev/net/ProjectEuler/ProjectEuler.csproj",
+      "outputPath": "/home/occ/dev/net/ProjectEuler/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/test1.dll": "/home/occ/dev/net/test1/bin/placeholder/netcoreapp1.1/test1.dll"
+        "lib/netcoreapp1.1/ProjectEuler.dll": "/home/occ/dev/net/ProjectEuler/bin/placeholder/netcoreapp1.1/ProjectEuler.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {

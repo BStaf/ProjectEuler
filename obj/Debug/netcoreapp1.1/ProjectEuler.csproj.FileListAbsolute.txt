@@ -1,0 +1,8 @@
+/home/occ/dev/net/ProjectEuler/bin/Debug/netcoreapp1.1/ProjectEuler.deps.json
+/home/occ/dev/net/ProjectEuler/bin/Debug/netcoreapp1.1/ProjectEuler.runtimeconfig.json
+/home/occ/dev/net/ProjectEuler/bin/Debug/netcoreapp1.1/ProjectEuler.runtimeconfig.dev.json
+/home/occ/dev/net/ProjectEuler/bin/Debug/netcoreapp1.1/ProjectEuler.dll
+/home/occ/dev/net/ProjectEuler/bin/Debug/netcoreapp1.1/ProjectEuler.pdb
+/home/occ/dev/net/ProjectEuler/obj/Debug/netcoreapp1.1/ProjectEuler.AssemblyInfo.cs
+/home/occ/dev/net/ProjectEuler/obj/Debug/netcoreapp1.1/ProjectEuler.dll
+/home/occ/dev/net/ProjectEuler/obj/Debug/netcoreapp1.1/ProjectEuler.pdb

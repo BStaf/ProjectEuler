@@ -1,8 +1,0 @@
-/home/occ/dev/net/test1/bin/Debug/netcoreapp1.1/test1.deps.json
-/home/occ/dev/net/test1/bin/Debug/netcoreapp1.1/test1.runtimeconfig.json
-/home/occ/dev/net/test1/bin/Debug/netcoreapp1.1/test1.runtimeconfig.dev.json
-/home/occ/dev/net/test1/bin/Debug/netcoreapp1.1/test1.dll
-/home/occ/dev/net/test1/bin/Debug/netcoreapp1.1/test1.pdb
-/home/occ/dev/net/test1/obj/Debug/netcoreapp1.1/test1.AssemblyInfo.cs
-/home/occ/dev/net/test1/obj/Debug/netcoreapp1.1/test1.dll
-/home/occ/dev/net/test1/obj/Debug/netcoreapp1.1/test1.pdb

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
-      "test1/1.0.0": {
+      "projecteuler/1.0.0": {
         "runtime": {
-          "test1.dll": {}
+          "ProjectEuler.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "test1/1.0.0": {
+    "projecteuler/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

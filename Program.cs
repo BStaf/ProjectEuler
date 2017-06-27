@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 
-
-namespace test1
+namespace ProjectEuler
 {
     class Program
     {
@@ -13,6 +11,5 @@ namespace test1
             //int num = 1000000;
             Console.WriteLine(LatticePaths.Solve(1000,1000));
         }
-    
     }
 }
